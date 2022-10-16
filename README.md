@@ -1,7 +1,7 @@
 # phpchatroom
-<h4 align="center">
+<h1 align="center">
 PHP CHATROOM
-</h4>
+</h1>
 <h4 align="center">
 *FEATURES*
 </h4>
@@ -22,9 +22,9 @@ ABLE SEND IMAGES TO MEMBERS
 ABLESEND LIKE TO MEMBER
 </h5>
 
-  <h2 align="center">
+  <h4 color:red align="center">
 FOR PC USER ONLY NOT DESIGN FOR MOBILE
-</h2>
+</h4>
   <h2 align="center">
 MOBILE VIEW ARE STILL ON DEVELOPMENT
 </h2>
@@ -53,7 +53,7 @@ ABLE TO ADD CHATROOM PER USER
 HOME PAGE 
    </h1>
  <p align="center">
-  <img src="https://raw.githubusercontent.com/Datcyx/Datcyx/main/svg_20220523_010809_0000.svg") width="550">
+  <img src="https://raw.githubusercontent.com/Datcyx/phpchatroom/main/interface.PNG") width="550">
  
 
 </p>
