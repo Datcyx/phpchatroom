@@ -1,4 +1,5 @@
 # phpchatroom
+<p align="center">
 PHP CHATROOM
 
 *FEATURES*
@@ -24,7 +25,7 @@ UPCOMING FEATURES
 
 
 ABLE TO ADD CHATROOM PER USER
-
+</p>
 * HOME PAGE 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Datcyx/Datcyx/main/svg_20220523_010809_0000.svg") width="550">
