@@ -1,0 +1,7 @@
+IMPORT DATABASE
+ALLOW GD IN PHP EXTENSION
+
+
+
+
+*license by mit*/

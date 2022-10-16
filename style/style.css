@@ -1,0 +1,223 @@
+@import "https://cdn.jsdelivr.net/npm/bulma@0.9.4/css/bulma.min.css";
+body{
+overflow: hidden;
+}
+.chats{
+  position: relative;
+    bottom: 890px;
+    background-color: grey;
+    width: 981px;
+    float: right;
+    height: 87%;
+    z-index: 0;
+}
+.chatext{
+        float: right;
+    background-color: white;
+    height: 90%;
+    width: 981px;
+    position: relative;
+    top: 1px;
+    overflow-y: scroll;
+}
+
+.chathead{
+  float: right;
+  background-color: white;
+  height: 10%;
+  width: 981px;
+}
+body, html {
+  height: 100%;
+  width: 100%;
+}
+.right{
+  background-color: white;
+  width: 300px;
+  display: block;
+  height: 80%;
+    overflow-y: auto;
+       position: relative;
+    bottom: 105px;
+        text-shadow: 1px 1px 1px black;
+   
+}
+
+.right-headm{
+     background-color: white;
+    width: 300px;
+    display: block;
+    height: 171px;
+    %: ;
+    position: relative;
+    top: -10px;
+}
+.chnm{
+      position: relative;
+    top: 28px;
+    left: 20px;
+}
+.chmh{
+        position: relative;
+    left: 59px;
+    top: 8px;
+}
+.chat_inputp{
+       width: auto;
+    background-color: white;
+    display: block;
+    height: 63px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    left: 301px;
+
+}
+.chatitle{
+  position: relative;
+  top: 30px;
+  left: 40px;
+}
+.xa{
+    width: 740px;
+    height: 2px;
+    overflow: auto;
+    resize: none;
+    position: relative;
+    left: 64px;
+    top: -26px;
+}
+.ddsx{
+      font-size: 34px;
+    position: relative;
+    bottom: 63px;
+    left: 687px;
+    left: 672px;
+    left: 814px;
+    color: rgb(0, 132, 255);
+}
+.ddsx1{
+      font-size: 34px;
+    position: relative;
+    bottom: 63px;
+    left: 687px;
+    left: 672px;
+    left: 814px;
+    color: rgb(0, 132, 255);
+}
+.ddsv{
+        font-size: 34px;
+    position: relative;
+    left: 244px;
+    bottom: 11px;
+    color: rgb(0, 132, 255);
+}
+.ddsxs{
+position: relative;
+    font-size: 34px;
+    left: 11px;
+    top: 14px;
+    color: rgb(0, 132, 255);
+}
+/*costom buble chats*/
+.discussion {
+    max-width: 170px;
+    margin: 0 auto;
+    
+    display: flex;
+    flex-flow: column wrap;
+    margin-top: 2px;
+}
+
+.discussion > .bubble {
+    border-radius: 1em;
+    padding: 0.25em 0.75em;
+    margin: 0.0625em;
+    max-width: 100%
+
+}
+
+.discussion > .bubble.sender {
+    align-self: flex-start;
+    background-color: cornflowerblue;
+    color: #fff;
+    word-wrap: break-word;
+}
+.discussion > .bubble.recipient {
+    align-self: flex-end;
+    background-color: #efefef;
+}
+
+.discussion > .bubble.sender.first {
+    border-bottom-left-radius: 0.1em;
+}
+.discussion > .bubble.sender.last {
+    border-top-left-radius: 0.1em;
+}
+.discussion > .bubble.sender.middle {
+    border-bottom-left-radius: 0.1em;
+    border-top-left-radius: 0.1em;
+}
+
+.discussion > .bubble.recipient.first {
+    border-bottom-right-radius: 0.1em;
+}
+.discussion > .bubble.recipient.last {
+    border-top-right-radius: 0.1em;
+}
+.discussion > .bubble.recipient.middle {
+    border-bottom-right-radius: 0.1em;
+    border-top-right-radius: 0.1em;
+}
+
+.usernac{
+    float: right;
+    position: relative;
+    right: 278px;
+    margin-bottom: 10px;
+    top: 12px;
+}
+.avatar{
+    width: 27px;
+    height: 27px;
+    border-radius: 30px;
+    position: relative;
+}
+.chatmessages{
+    float: right;
+    position: relative;
+    right: 288px;
+    margin-bottom: 10px;
+}
+.roomavatar{
+    width: 50px;
+    height: 46px;
+    border-radius: 34px;
+    position: relative;
+    bottom: 16px;
+    left: 202px;
+}
+
+
+.ripple {
+  background-position: center;
+  transition: background 0.8s;
+  padding: 3px;
+  cursor: pointer;
+   -webkit-user-select: none;
+        -webkit-touch-callout: none;
+        -moz-user-select: none;
+        -ms-user-select: none;
+        user-select: none;
+}
+.ripple:hover {
+  background: #ccc radial-gradient(circle, transparent 1%, #47a7f5 1%) center/15000%;
+  border-radius: 30px;
+}
+.ripple:active {
+  background-color: white;
+  background-size: 100%;
+  transition: background 0s;
+}
+
+/* Button style */
