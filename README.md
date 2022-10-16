@@ -48,7 +48,10 @@ ABLE TO ADD CHATROOM PER USER
 </h5>
 
 
-* HOME PAGE 
+
+ <h5 align="center">
+HOME PAGE 
+   </h5>
  <p align="center">
   <img src="https://raw.githubusercontent.com/Datcyx/Datcyx/main/svg_20220523_010809_0000.svg") width="550">
  
