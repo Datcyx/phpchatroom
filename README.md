@@ -17,14 +17,11 @@ BUBBLE CHATS MESSAGES
   <h5 align="center">
 ABLE SEND IMAGES TO MEMBERS
 </h5>
-
+<h5 align ="center"> Able to send like</h5>
 <h5 align="center"> Notify when user leave or join the chatroom</h5
 
   
-  <h5 align="center">
-ABLE TO SEND LIKE TO MEMBER
-</h5>
-
+ 
   <font color="red"><h4 stye="color:red;" align="center">
 FOR PC USER ONLY NOT DESIGN FOR MOBILE
 </h4>
