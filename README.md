@@ -10,7 +10,7 @@ SEND MESSAGE
 </h5>
   <h5 align="center">
 
-ABLE BUBBLE CHATS MESSAGES
+BUBBLE CHATS MESSAGES
 </h5>
   
   
