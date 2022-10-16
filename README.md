@@ -18,6 +18,8 @@ BUBBLE CHATS MESSAGES
 ABLE SEND IMAGES TO MEMBERS
 </h5>
 
+<h5 align="center"> Notify when user leave or join the chatroom</h5
+
   <h5 align="center">
 ABLESEND LIKE TO MEMBER
 </h5>
