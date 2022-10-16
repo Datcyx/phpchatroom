@@ -22,12 +22,13 @@ ABLE SEND IMAGES TO MEMBERS
 ABLESEND LIKE TO MEMBER
 </h5>
 
-  - text in red<h4 sty;e="color:red;" align="center">
+  <font color="red"><h4 stye="color:red;" align="center">
 FOR PC USER ONLY NOT DESIGN FOR MOBILE
 </h4>
   <h2 align="center">
 MOBILE VIEW ARE STILL ON DEVELOPMENT
 </h2>
+  </font>
 
   <h1 align="center">
 KNOWN BUGS
