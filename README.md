@@ -22,7 +22,7 @@ ABLE SEND IMAGES TO MEMBERS
 ABLESEND LIKE TO MEMBER
 </h5>
 
-  <h4 sty;e="color:red;" align="center">
+  <h4 style="color:red;" align="center">
 FOR PC USER ONLY NOT DESIGN FOR MOBILE
 </h4>
   <h2 align="center">
