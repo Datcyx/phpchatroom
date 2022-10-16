@@ -20,8 +20,9 @@ ABLE SEND IMAGES TO MEMBERS
 
 <h5 align="center"> Notify when user leave or join the chatroom</h5
 
+  
   <h5 align="center">
-ABLESEND LIKE TO MEMBER
+ABLE TO SEND LIKE TO MEMBER
 </h5>
 
   <font color="red"><h4 stye="color:red;" align="center">
