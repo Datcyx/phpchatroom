@@ -16,6 +16,7 @@ FOR PC USER ONLY NOT DESIGN FOR MOBILE
 MOBILE VIEW ARE STILL ON DEVELOPMENT
 
 KNOWN BUGS
+
 *dont autoscroll when new messages are comming*
 
 
